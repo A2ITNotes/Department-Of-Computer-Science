@@ -1,0 +1,105 @@
+.mainbody{
+	background-color: #cbf0d4;
+}
+
+#menu{
+    background-color: #cbf0d4;
+    margin-bottom: 0px !important;
+}
+
+#menulist{
+    margin-right: 100px;
+}
+
+#jumbotron{
+    background-image: url('../images/blurred.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-position: center;
+    opacity: 0.9;
+    margin-bottom:0px !important;
+	backdrop-filter: blur(5px);
+	background-attachment: fixed;
+
+
+	
+}
+
+#jumbtext{
+    text-align: center;
+	color:aliceblue;
+	font-size: 4rem;
+	
+}
+
+#bodytext{
+    font-size: large;
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#bodytextcontainer{
+background-image: url('../images/col-bg-1.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+color: aliceblue;
+margin-bottom:0px  !important;
+}
+
+ul.lists{
+	  list-style-type: square;
+		font-size:30px;
+		  list-style-image: url("../images/image67.png");
+
+}
+
+li.item{
+	margin-bottom: 15px;
+}
+
+#ourprogram{
+	background-image: url('../images/bg1.png');
+	background-repeat: repeat-x;
+background-size: contain;
+	margin-bottom: 0px !important;
+}
+
+#endinginfo{
+background-color: green;
+margin-bottom: 0px !important;
+}
+
+#endingtext{
+	color: azure;
+	text-align: justify;
+	font-size:20px;
+}
+
+button{
+	padding: 10px;
+	background-color: black;
+	color:white;	
+}
+
+#requirementtext{
+	text-align: center;
+	color:aliceblue;
+	font-size: 3rem;
+}
+
+
+
+#aims{
+	text-align: justify;
+	margin-right: 200px;
+	margin-left: 100px;
+}
+
+#fieldcontainer{
+	width: 40%;
+}
+
+.stp{
+	width: 98%;
+}
